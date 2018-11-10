@@ -3,6 +3,7 @@ Doliot is an iot platform where you're able to contol your bulb from anywhere in
 here the link for the repo of client-side that consume the doliot api : https://github.com/aballah-chamakh/Doliot-frontend
 <br/>
 <br/>
+those some image of the doliot platform : 
 <br/>
 <img src="https://github.com/aballah-chamakh/Doliot-frontend/blob/master/src/img/profile.png" /> <br/><br/>
 <img src="https://github.com/aballah-chamakh/Doliot-frontend/blob/master/src/img/turnOff.png" /> <br/><br/>
